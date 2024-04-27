@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web 3 and Cyber Security
 - 🌱 I’m currently learning Computer Science and Designing 
 - 💞️ I’m looking to collaborate on Web3 projects 
-- 📫 How to reach me 
 - 😄 Pronouns: Nisharg 
 
 
