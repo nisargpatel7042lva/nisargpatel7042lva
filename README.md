@@ -1,67 +1,38 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+<h1 align="center">Hi 👋, I'm Nisarg Patel</h1> <h3 align="center">🌟 Digital Innovator | UX Designer | Web3 Enthusiast | State-Level Athlete 🌟</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=nisargpatel7042lva&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> <a href="https://github-profile-trophy.vercel.app/?username=nisargpatel7042lva"><img src="https://github-profile-trophy.vercel.app/?username=nisargpatel7042lva" alt="GitHub Trophies" /></a> </p>
 
-###
+🌀 About Me
+I'm Nisarg Patel, a tech enthusiast combining design, Web2/Web3, and blockchain innovation. I craft seamless user experiences and embrace challenges in AI, open-source, and tech projects.
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+💻 What I Do
 
-###
+Web Designer: Creating user-friendly designs for Web2/Web3.
+Growth Enthusiast: Boosting traffic and community building, especially with GeekClash.
+Content Creator: Sharing problem-solving tips on Instagram reels.
+Athlete: Represented Gujarat in woodball, winning silver and bronze.
+Founder: Creator of Mysterio Fashion, an online fashion store.
+Collaborator: Contributing to GirlScript Summer of Code.
+Solo Developer: Behind Ayur Fit, a health-focused platform.
+🚀 Skills & Interests
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+Blockchain & Web3: Merging decentralized solutions with user design.
+Design Thinking: UX research, prototyping, wireframing.
+Tech Stack: AWS, Docker, Google Cloud, Firebase, Figma, Blender, C, etc.
+Community Building: Organizing events like AWS Community Day.
+🌐 Projects
 
-###
+Ayur Fit: Wellness platform for better health.
+Shinobi Trader: AI bot teaching trading with an anime twist (coming soon).
+Open Source Contributor: Actively involved in coding and design challenges.
+Reel Creator: Engaging problem-solving content.
+🌈 Vision
+Empower communities through open-source and digital tools, creating inclusive, user-centered experiences in AI, blockchain, and financial education.
+📬 Connect with Me
+<p align="left"> <a href="https://twitter.com/nisargpatel5563" target="_blank"><img src="https://img.shields.io/twitter/follow/nisargpatel5563?logo=twitter&style=for-the-badge" alt="Twitter" /></a> <a href="https://linkedin.com/in/nisarg-patel-7b799a277/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a> <a href="https://kaggle.com/nisargmaster" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=kaggle" alt="Kaggle" /></a> <a href="https://instagram.com/nisargpatel_7042lva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <a href="https://github.com/nisargpatel7042lva" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a> </p>
 
-<h1 align="center">hey there 👋</h1>
+⚡ Fun Facts
+🎨 I blend creativity and logic to design visually stunning and functional interfaces.
+🏏 Beyond coding, I enjoy sports like woodball and am a state-level medalist.
+🌱 Always up for collaborations to create something impactful.
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nisargpatel7042lva&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisargpatel7042lva&theme=radical" alt="GitHub Streak" /> </p>
