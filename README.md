@@ -45,7 +45,7 @@ To **empower communities** through open-source tools, financial education, and i
 
 ### 📬 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/nisargpatel5563" target="_blank"><img src="https://img.shields.io/twitter/follow/nisargpatel5563?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/nisarg-patel-7b799a277/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://kaggle.com/nisargmaster" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=kaggle" alt="Kaggle" /></a>
