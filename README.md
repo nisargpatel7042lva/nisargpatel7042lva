@@ -35,6 +35,6 @@ Empower communities through open-source and digital tools, creating inclusive, u
 🌱 Always up for collaborations to create something impactful.
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nisargpatel7042lva&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisargpatel7042lva&theme=radical" alt="GitHub Streak" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nisargpatel7042lva&show_icons=true&theme=github-compact" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisargpatel7042lva&theme=radical" alt="GitHub Streak" /> </p>
 
 [![Nisarg's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nisargpatel7042lva&theme=github-compact)](https://github.com/nisargpatel7042lva/github-readme-activity-graph)
