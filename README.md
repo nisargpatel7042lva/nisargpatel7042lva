@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nisargpatel7042lva&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nisargpatel7042lva&theme=tokyonight&no-bg=true&no-frame=true&row=1" alt="GitHub Trophies" />
 </p>
+
 
 🌀 About Me
 I'm Nisarg Patel, a tech enthusiast combining design, Web2/Web3, and blockchain innovation. I craft seamless user experiences and embrace challenges in AI, open-source, and tech projects.
