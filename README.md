@@ -66,7 +66,8 @@ To **empower communities** through open-source tools, financial education, and i
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nisargpatel7042lva&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisargpatel7042lva&theme=radical" alt="GitHub Streak" />
+<!--   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nisargpatel7042lva&theme=radical)](https://git.io/streak-stats) -->
 </p>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=nisargpatel7042lva&theme=radical" alt="GitHub Streak" /></a>
 
 [![Nisarg's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nisargpatel7042lva&theme=github-compact)](https://github.com/nisargpatel7042lva/github-readme-activity-graph)
