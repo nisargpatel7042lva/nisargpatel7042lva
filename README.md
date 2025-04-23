@@ -65,7 +65,7 @@ To **empower communities** through open-source tools, financial education, and i
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nisargpatel7042lva&theme=dark-green&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nisargpatel7042lva&theme=dark&show_icons=true" alt="GitHub Stats" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=nisargpatel7042lva&theme=github-dark" alt="GitHub Streak" />
 </p>
 
