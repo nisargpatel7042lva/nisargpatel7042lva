@@ -23,7 +23,7 @@ I'm **Nisarg Patel**, a passionate tech enthusiast combining creativity, design,
 - 📈 **Growth Enthusiast**: Scaling traffic and engagement with **GeekClash** community projects.  
 - 📹 **Content Creator**: Sharing quick tech tips and problem-solving tricks via **Instagram Reels**.  
 - 🏅 **Athlete**: Proudly represented **Gujarat** in woodball and won silver & bronze medals.  
-- 🛍️ **Founder**: Created **Mysterio Fashion**, a unique online fashion store.  
+- 🛍️ **Founder**: Created **Clovia - Stake, Connect, Grow** & **Mysterio Fashion**, a unique online fashion store.  
 - 👩‍💻 **Contributor**: Actively participating in **Open Contribution Projects**.  
 
 ---
