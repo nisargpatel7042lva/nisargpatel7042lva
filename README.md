@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nisarg Patel</h1>
+<h1 align="center">Heyy 👋, I'm Nisarg Patel</h1>
 <h3 align="center">🌟 Digital Innovator | UX Designer | Web3 Enthusiast | State-Level Athlete 🌟</h3>
 
 <p align="center">
