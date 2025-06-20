@@ -71,3 +71,5 @@ To **empower communities** through open-source tools, financial education, and i
 
 [![Nisarg's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nisargpatel7042lva&theme=github-compact)](https://github.com/nisargpatel7042lva/github-readme-activity-graph)
 
+<a href="https://www.buymeacoffee.com/gbraad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
