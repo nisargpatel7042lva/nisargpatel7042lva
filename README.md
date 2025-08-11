@@ -162,7 +162,7 @@ I am **Nisarg Patel**, a technology professional who bridges the gap between bea
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/nisargpatel5563)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/nisargmaster)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nisargpatel7042lva)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nisargpatel_7042lva/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nisargxplores/)
 
 </div>
 
@@ -182,6 +182,6 @@ I am **Nisarg Patel**, a technology professional who bridges the gap between bea
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B949E&center=true&vCenter=true&width=400&lines=Open+to+innovative+collaborations;Let's+build+something+extraordinary;Always+ready+for+new+challenges" alt="Contact Information" />
 
-**Thank you for visiting my profile**
+**Thank you for visiting my profile!**
 
 </div>
