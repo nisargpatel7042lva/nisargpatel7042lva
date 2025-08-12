@@ -84,12 +84,6 @@ I am **Nisarg Patel**, a technology professional who bridges the gap between bea
 - Designed complete customer journey from product discovery to seamless checkout
 - Managed end-to-end product development with emphasis on conversion optimization
 
-### **Growth Lead & Community Builder** | GeekClash Community
-*Technical Community Management & Event Organization*
-- Scaled community engagement through strategic content and user experience improvements
-- Coordinated hackathons, AWS Community Day events, and Solana blockchain challenges
-- Developed growth strategies combining technical content with community-driven initiatives
-
 ## Technical Expertise
 
 <div align="center">
