@@ -2,9 +2,9 @@
   
 # **Nisarg Patel**
 
-### Digital Innovator • UX Designer • Web3 Enthusiast • State-Level Athlete
+### Digital Innovator • UX Designer • Web3 Enthusiast • Game Developer • State-Level Athlete
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+scalable+digital+solutions;Bridging+design+and+blockchain+innovation;Turning+creative+vision+into+reality" alt="Professional Summary" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+scalable+digital+solutions;Designing+next-gen+Web3+experiences;Merging+creativity,+tech+and+impact" alt="Professional Summary" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nisargpatel7042lva&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile Views" />
@@ -14,6 +14,17 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nisargpatel7042lva&theme=github-dark&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Achievements" />
 </div>
+<div align="center">
+
+<a href="https://nisargxplores-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-0D1117?style=for-the-badge&logo=safari&logoColor=white&labelColor=58A6FF" alt="Nisarg Patel Portfolio" />
+</a>
+
+<p align="center">
+  <em>Crafting intuitive experiences that blend design, tech, and storytelling.</em>
+</p>
+
+</div>
 
 </div>
 
@@ -21,18 +32,19 @@
 
 ## About Me – Developer & Designer Edition
 
-I am **Nisarg Patel**, a technology professional who bridges the gap between beautiful design and functional code. My approach centers on creating digital experiences that not only look exceptional but feel intuitive and drive real user engagement.
+I am **Nisarg Patel**, a multidisciplinary creator passionate about building products that blend **design precision**, **technical innovation**, and **real-world usability**.  
+I bridge the gap between **intuitive user experiences** and **powerful Web3 or AI-driven systems**.
 
 **My Development Philosophy:**
-- **UI/UX-focused Web Developer** – Crafting websites that feel *smooth* and not just look pretty
-- **Designer at Heart** – Merging creativity with functionality, so the visuals match the user journey  
-- **Tech Stack Explorer** – Comfortable jumping from React & TypeScript to Web3 experiments and AI agents
-- **Game & Product Builder** – From PvP tactical games to AI productivity tools, I love building stuff people actually use
-- **Web2 & Web3 Bridge** – Designing experiences that make blockchain tools feel friendly and intuitive
-- **Community-driven** – Active in hackathons, open source, and events like AWS Community Day & Solana challenges
-- **Growth-Minded** – Always thinking about how design + tech can *attract* and *retain* users
-- **Project Range** – Dropshipping sites, personal brands, NFT lending UIs, health & fitness apps, and more
-- **Detail-Obsessed** – Whether it's pixel-perfect alignment or smooth API integration, I don't leave rough edges
+- **UI/UX-focused Web Developer** – Crafting websites that *feel fluid* and not just look pretty  
+- **Designer at Heart** – Where form meets function; every pixel serves a purpose  
+- **Game Developer** – Exploring the creative side of tech through **Unity** and interactive design  
+- **Web3 Innovator** – Experimenting across **Solana**, **Base**, and **Arweave/AO** to simplify decentralized experiences  
+- **AI & Automation Enthusiast** – Integrating AI tools into design workflows and digital products  
+- **Community-driven** – Active participant in **hackathons**, **open-source**, and **tech events** like **AWS Community Day** & **Superteam Solana**  
+- **Growth-Minded** – Always optimizing for user engagement, retention, and storytelling through design  
+- **Project Range** – From AI tools and Web3 platforms to dropshipping brands and gamified learning systems  
+- **Detail-Obsessed** – Every color, transition, and API call contributes to a seamless experience  
 
 <div align="center">
   <a href="https://gitroll.io/profile/ueBTAvMFLOtcbLUvfIZPqLK8pFu73" target="_blank">
@@ -43,6 +55,8 @@ I am **Nisarg Patel**, a technology professional who bridges the gap between bea
   </a>
 </div>
 
+---
+
 ## Core Competencies
 
 <table>
@@ -50,80 +64,113 @@ I am **Nisarg Patel**, a technology professional who bridges the gap between bea
 <td width="50%">
 
 **Design & User Experience**
-- User Interface Design
-- User Experience Research
-- Prototyping & Wireframing
-- Design Systems Architecture
-- Cross-platform Design Solutions
+- UI/UX Research & Design
+- Wireframing & Prototyping
+- Design Systems & Style Guides
+- User Testing & Iteration
+- Brand Identity Design
 
 </td>
 <td width="50%">
 
 **Development & Technology**
-- Blockchain Development
-- Full-stack Web Development
-- Cloud Infrastructure Management
-- DevOps & Automation
-- Open Source Contributions
+- Full-stack Web Development (React, TypeScript, Node.js)
+- Game Development with Unity
+- Blockchain & Web3 Development (Solana, Base, Ethereum)
+- AI Integration in Apps
+- Cloud & DevOps (AWS, Firebase, Docker)
 
 </td>
 </tr>
 </table>
 
-## Professional Experience
+---
 
-### **Founder & Lead Developer** | DEX2.0
-*Advanced Decentralized Exchange Screener Platform*
-- Developed comprehensive DEx screening solution supporting SPL and Token-2022 programs
-- Built user-friendly interfaces that make complex blockchain data accessible and actionable
-- Implemented real-time trading analytics with smooth, responsive UI/UX design
+## Featured Projects
 
-### **Founder & Creative Director** | Mysterio Fashion
-*E-commerce Fashion Platform with Custom UX*
-- Established unique online fashion retail platform with focus on user experience
-- Designed complete customer journey from product discovery to seamless checkout
-- Managed end-to-end product development with emphasis on conversion optimization
+### **Founder & Creative Director** | Mysterio Fashion  
+*E-commerce Fashion Platform with Custom UX*  
+- Built and managed a Print-on-Demand brand with a unique user journey  
+- Designed every aspect from product pages to interactive visuals  
+- Optimized UX for conversion and repeat engagement  
+
+### **Game Developer** | Sol Tactics *(In Development)*  
+*Tactical PvP Game inspired by Final Fantasy Tactics & LoL*  
+- Built using **Unity** with on-chain integration on **Solana**  
+- Focused on grid-based strategy and character design  
+- Contributing to the future of decentralized gaming ecosystems  
+
+### **Solo Developer** | Ayur Fit  
+*AI + Health & Fitness Web Platform*  
+- Designed and developed using **React + TypeScript + Supabase**  
+- Focused on personalized, data-driven wellness recommendations  
+- Integrated modern UI/UX best practices for accessibility and retention  
+
+---
 
 ## Technical Expertise
 
 <div align="center">
 
-**Design & Creative Tools**
+**🎨 Design & Creative Tools**
 <br>
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
 
-**Programming Languages & Frameworks**
+**💻 Programming Languages & Frameworks**
 <br>
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
-**Cloud & Infrastructure**
+**🧠 AI & Automation Tools**
+<br>
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-222222?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Bolt](https://img.shields.io/badge/Bolt-2C2C2C?style=flat-square&logo=lightning&logoColor=FFD43B)
+![Lovable](https://img.shields.io/badge/Lovable-FF69B4?style=flat-square&logo=heart&logoColor=white)
+![Flames](https://img.shields.io/badge/Flames-FF4500?style=flat-square&logo=firefoxbrowser&logoColor=white)
+![Blink](https://img.shields.io/badge/Blink-1E90FF?style=flat-square&logo=blink&logoColor=white)
+![v0](https://img.shields.io/badge/v0-7C3AED?style=flat-square&logo=vercel&logoColor=white)
+![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=flat-square&logo=midjourney&logoColor=white)
+![Replit%20AI](https://img.shields.io/badge/Replit%20AI-667881?style=flat-square&logo=replit&logoColor=white)
+![Notion%20AI](https://img.shields.io/badge/Notion%20AI-000000?style=flat-square&logo=notion&logoColor=white)
+![Runway%20ML](https://img.shields.io/badge/Runway%20ML-00D1B2?style=flat-square&logo=runwayml&logoColor=white)
+![Leonardo%20AI](https://img.shields.io/badge/Leonardo%20AI-8A2BE2?style=flat-square&logo=leonardo-ai&logoColor=white)
+
+**☁️ Cloud & Infrastructure**
 <br>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Blockchain & Web3**
+**🪙 Blockchain & Web3**
 <br>
+![Base](https://img.shields.io/badge/Base-0052FF?style=flat-square&logo=base&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Arweave](https://img.shields.io/badge/Arweave-222222?style=flat-square&logo=arweave&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
 </div>
+
+---
 
 ## Professional Vision
 
@@ -131,7 +178,9 @@ I am **Nisarg Patel**, a technology professional who bridges the gap between bea
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&author=Nisarg+Patel" alt="Dynamic Vision" />
 </div>
 
-*"To drive digital transformation through innovative technology solutions, fostering inclusive growth in the blockchain ecosystem while maintaining the highest standards of user experience design."*
+*"To build a bridge between creativity and technology — designing experiences that make decentralized and AI-powered systems feel human, inclusive, and inspiring."*
+
+---
 
 ## GitHub Analytics
 
@@ -147,6 +196,8 @@ I am **Nisarg Patel**, a technology professional who bridges the gap between bea
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nisargpatel7042lva&custom_title=Annual%20Contribution%20Overview&hide_border=true&border_radius=8&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&title_color=c9d1d9&area=true&area_color=21262d" alt="GitHub Activity Graph" />
 </div>
+
+---
 
 ## Professional Network
 
@@ -164,11 +215,9 @@ I am **Nisarg Patel**, a technology professional who bridges the gap between bea
 
 ## Additional Information
 
-**Athletic Achievements**: State-level competitor in woodball, representing Gujarat with silver and bronze medal wins
-
-**Community Involvement**: Active contributor to open-source projects and technical community initiatives
-
-**Content Creation**: Regular contributor of technical content and educational materials through various digital platforms
+**Athletic Achievements**: State-level competitor in woodball, representing Gujarat with silver and bronze medal wins  
+**Community Involvement**: Contributor to open-source and community-led tech projects (Superteam, GSSoC, AWS UG Vadodara)  
+**Content Creation**: Writer, designer, and visual storyteller sharing insights on tech, creativity, and innovation  
 
 ---
 
