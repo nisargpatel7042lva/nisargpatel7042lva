@@ -208,8 +208,10 @@ I bridge the gap between **intuitive user experiences** and **powerful Web3 or A
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/nisargmaster)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nisargpatel7042lva)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nisargxplores/)
+[![Farcaster](https://img.shields.io/badge/Farcaster-6A0DAD?style=flat-square&logo=farcaster&logoColor=white)](https://farcaster.xyz/nisargxplores) 
 
 </div>
+
 
 ---
 
