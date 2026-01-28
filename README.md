@@ -86,28 +86,6 @@ I bridge the gap between **intuitive user experiences** and **powerful Web3 or A
 
 ---
 
-## Featured Projects
-
-### **Founder & Creative Director** | Mysterio Fashion  
-*E-commerce Fashion Platform with Custom UX*  
-- Built and managed a Print-on-Demand brand with a unique user journey  
-- Designed every aspect from product pages to interactive visuals  
-- Optimized UX for conversion and repeat engagement  
-
-### **Game Developer** | Sol Tactics *(In Development)*  
-*Tactical PvP Game inspired by Final Fantasy Tactics & LoL*  
-- Built using **Unity** with on-chain integration on **Solana**  
-- Focused on grid-based strategy and character design  
-- Contributing to the future of decentralized gaming ecosystems  
-
-### **Solo Developer** | Ayur Fit  
-*AI + Health & Fitness Web Platform*  
-- Designed and developed using **React + TypeScript + Supabase**  
-- Focused on personalized, data-driven wellness recommendations  
-- Integrated modern UI/UX best practices for accessibility and retention  
-
----
-
 ## Technical Expertise
 
 <div align="center">
