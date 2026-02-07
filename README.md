@@ -195,7 +195,6 @@ I bridge the gap between **intuitive user experiences** and **powerful Web3 or A
 
 ## Additional Information
 
-**Athletic Achievements**: State-level competitor in woodball, representing Gujarat with silver and bronze medal wins  
 **Community Involvement**: Contributor to open-source and community-led tech projects (Superteam, GSSoC, AWS UG Vadodara)  
 **Content Creation**: Writer, designer, and visual storyteller sharing insights on tech, creativity, and innovation  
 
