@@ -1,209 +1,276 @@
-<div align="center">
-  
-# **Nisarg Patel**
-
-### Digital Innovator • UX Designer • Web3 Enthusiast • Game Developer • State-Level Athlete
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+scalable+digital+solutions;Designing+next-gen+Web3+experiences;Merging+creativity,+tech+and+impact" alt="Professional Summary" />
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nisargpatel7042lva&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/nisargpatel7042lva?label=Followers&style=flat-square&color=2563eb" alt="GitHub Followers" />
+  <img
+    src="./profile backdrop.png"
+    width="100%"
+    alt="Nisarg Patel — Designer, Builder, Explorer"
+  />
 </p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nisargpatel7042lva&theme=github-dark&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Achievements" />
-</div>
-<div align="center">
-
-<a href="https://nisargxplores-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-0D1117?style=for-the-badge&logo=safari&logoColor=white&labelColor=58A6FF" alt="Nisarg Patel Portfolio" />
-</a>
-
-<p align="center">
-  <em>Crafting intuitive experiences that blend design, tech, and storytelling.</em>
-</p>
-
-</div>
-
-</div>
 
 ---
 
-## About Me – Developer & Designer Edition
+## `$ whoami`
 
-I am **Nisarg Patel**, a multidisciplinary creator passionate about building products that blend **design precision**, **technical innovation**, and **real-world usability**.  
-I bridge the gap between **intuitive user experiences** and **powerful Web3 or AI-driven systems**.
-
-**My Development Philosophy:**
-- **UI/UX-focused Web Developer** – Crafting websites that *feel fluid* and not just look pretty  
-- **Designer at Heart** – Where form meets function; every pixel serves a purpose  
-- **Game Developer** – Exploring the creative side of tech through **Unity** and interactive design  
-- **Web3 Innovator** – Experimenting across **Solana**, **Base**, and **Arweave/AO** to simplify decentralized experiences  
-- **AI & Automation Enthusiast** – Integrating AI tools into design workflows and digital products  
-- **Community-driven** – Active participant in **hackathons**, **open-source**, and **tech events** like **AWS Community Day** & **Superteam Solana**  
-- **Growth-Minded** – Always optimizing for user engagement, retention, and storytelling through design  
-- **Project Range** – From AI tools and Web3 platforms to dropshipping brands and gamified learning systems  
-- **Detail-Obsessed** – Every color, transition, and API call contributes to a seamless experience  
-
-<div align="center">
-  <a href="https://gitroll.io/profile/ueBTAvMFLOtcbLUvfIZPqLK8pFu73" target="_blank">
-    <img src="https://img.shields.io/badge/GitRoll%20Profile-Verified%20Developer-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="GitRoll Profile" />
+<p align="center">
+  <a href="https://nisargxplores-portfolio.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1100&color=9945FF&center=true&vCenter=true&width=640&lines=Open-source+contributor+%C2%B7+ContextVM+SDK;Bitshala+cohort+graduate+%C2%B7+Bitcoin+%2B+Lightning;Turbin3+Builders+Cohort+Q3+2026;Ackee+School+of+Solana+%C2%B7+Season+8+graduate;Shipping+on+Solana%2C+Bitcoin%2C+Ethereum%2C+Avalanche%2C+Stellar;UI%2FUX+%C2%B7+Graphic+Design+%C2%B7+Game+Design" alt="Typing intro" />
   </a>
-  <a href="https://nisargxplores-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-f85149?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+</p>
+
+<p align="center">
+  <a href="https://nisargxplores-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=safari&logoColor=14F195" alt="Portfolio" /></a>
+  <a href="https://superteam.fun/earn/t/nisargxplores"><img src="https://img.shields.io/badge/Superteam_Earn-0D1117?style=for-the-badge&logo=solana&logoColor=9945FF" alt="Superteam Earn" /></a>
+  <a href="https://twitter.com/nisargpatel5563"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://linkedin.com/in/nisarg-patel-7b799a277/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/nisargxplores/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF0069" alt="Instagram" /></a>
+  <a href="https://farcaster.xyz/nisargxplores"><img src="https://img.shields.io/badge/Farcaster-0D1117?style=for-the-badge&logo=farcaster&logoColor=855DCD" alt="Farcaster" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nisargpatel7042lva&label=Profile%20Views&color=9945FF&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/nisargpatel7042lva?label=Followers&style=flat-square&color=14F195&labelColor=0D1117" alt="Followers" />
+</p>
 
 ---
 
-## Core Competencies
+## `$ whoami`
+
+```yaml
+name:          Nisarg Patel
+based_in:      Vadodara, Gujarat, India
+studying:      Final-year Engineering @ SVIT Vasad
+building_on:   [Solana, Bitcoin, Ethereum, Avalanche, Stellar]
+open_source:   ContextVM/sdk  # Nostr x Model Context Protocol
+currently:     Turbin3 Builders Cohort Q3 2026
+graduated:     [Bitshala Bitcoin cohorts, Ackee School of Solana S8]
+community:     [ETH Gujarat Core Team, Team1 India, Superteam Earn]
+also_a:        [UI/UX designer, graphic designer, game designer, state-level athlete]
+```
+
+I build across chains and across disciplines. Around three years in Web3, 15+ hackathons, and a habit of shipping things people can click on. I care about protocol-level correctness as much as I care about how the product feels in your hands.
+
+---
+
+## 🎓 Credentials
 
 <table>
-<tr>
-<td width="50%">
-
-**Design & User Experience**
-- UI/UX Research & Design
-- Wireframing & Prototyping
-- Design Systems & Style Guides
-- User Testing & Iteration
-- Brand Identity Design
-
-</td>
-<td width="50%">
-
-**Development & Technology**
-- Full-stack Web Development (React, TypeScript, Node.js)
-- Game Development with Unity
-- Blockchain & Web3 Development (Solana, Base, Ethereum)
-- AI Integration in Apps
-- Cloud & DevOps (AWS, Firebase, Docker)
-
-</td>
-</tr>
+  <tr>
+    <td width="25%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/Bitshala-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitshala" /><br/><br/>
+      <b>Cohort Graduate</b><br/>
+      <sub>Mastering Bitcoin<br/>Learning Bitcoin from the Command Line<br/>Programming Bitcoin<br/>Bitcoin Protocol Development<br/>Mastering Lightning Network</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/Turbin3-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Turbin3" /><br/><br/>
+      <b>Builders Cohort Q3 2026</b><br/>
+      <sub>Completing this quarter<br/>Anchor programs, PDAs, CPIs<br/>Capstone: <b>Converge</b>, an automated market-making vault for Solana prediction markets</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/Ackee_Blockchain-14F195?style=for-the-badge&logo=solana&logoColor=0D1117" alt="Ackee Blockchain" /><br/><br/>
+      <b>School of Solana Graduate</b><br/>
+      <sub>Season 8 (Fall 2025)<br/>Rust + Anchor program development<br/>On-chain graduation NFT</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/Superteam_Earn-0D1117?style=for-the-badge&logo=solana&logoColor=14F195" alt="Superteam Earn" /><br/><br/>
+      <b>Bounty Hunter</b><br/>
+      <sub>12+ bounty wins<br/>Development and content tracks<br/><a href="https://superteam.fun/earn/t/nisargxplores">@nisargxplores</a></sub>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## Technical Expertise
+## 🌐 Open Source
 
-<div align="center">
+<table>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">Contribution</th>
+    <th align="center">Status</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ContextVM/sdk"><b>ContextVM/sdk</b></a><br/><sub>TypeScript SDK for the Context Vending Machine protocol, bridging Nostr and MCP</sub></td>
+    <td><a href="https://github.com/ContextVM/sdk/pull/92">#92</a> · docs: fix SDK development quickstart</td>
+    <td align="center"><img src="https://img.shields.io/badge/merged-8957E5?style=flat-square&logo=git&logoColor=white" alt="merged" /></td>
+  </tr>
+</table>
 
-**🎨 Design & Creative Tools**
-<br>
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
-
-**💻 Programming Languages & Frameworks**
-<br>
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-
-**🧠 AI & Automation Tools**
-<br>
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-222222?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Bolt](https://img.shields.io/badge/Bolt-2C2C2C?style=flat-square&logo=lightning&logoColor=FFD43B)
-![Lovable](https://img.shields.io/badge/Lovable-FF69B4?style=flat-square&logo=heart&logoColor=white)
-![Flames](https://img.shields.io/badge/Flames-FF4500?style=flat-square&logo=firefoxbrowser&logoColor=white)
-![Blink](https://img.shields.io/badge/Blink-1E90FF?style=flat-square&logo=blink&logoColor=white)
-![v0](https://img.shields.io/badge/v0-7C3AED?style=flat-square&logo=vercel&logoColor=white)
-![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=flat-square&logo=midjourney&logoColor=white)
-![Replit%20AI](https://img.shields.io/badge/Replit%20AI-667881?style=flat-square&logo=replit&logoColor=white)
-![Notion%20AI](https://img.shields.io/badge/Notion%20AI-000000?style=flat-square&logo=notion&logoColor=white)
-![Runway%20ML](https://img.shields.io/badge/Runway%20ML-00D1B2?style=flat-square&logo=runwayml&logoColor=white)
-![Leonardo%20AI](https://img.shields.io/badge/Leonardo%20AI-8A2BE2?style=flat-square&logo=leonardo-ai&logoColor=white)
-
-**☁️ Cloud & Infrastructure**
-<br>
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**🪙 Blockchain & Web3**
-<br>
-![Base](https://img.shields.io/badge/Base-0052FF?style=flat-square&logo=base&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Arweave](https://img.shields.io/badge/Arweave-222222?style=flat-square&logo=arweave&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
-
-</div>
+<p>
+  <a href="https://github.com/search?q=author%3Anisargpatel7042lva+is%3Apr+is%3Amerged&type=pullrequests"><img src="https://img.shields.io/badge/See_all_merged_PRs-0D1117?style=flat-square&logo=github&logoColor=white" alt="All merged PRs" /></a>
+</p>
 
 ---
 
-## Professional Vision
+## 🛠️ Proof of Work
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&author=Nisarg+Patel" alt="Dynamic Vision" />
-</div>
+### Featured builds
 
-*"To build a bridge between creativity and technology — designing experiences that make decentralized and AI-powered systems feel human, inclusive, and inspiring."*
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/nisargpatel7042lva/EPOCH">EPOCH</a></h3>
+      <img src="https://img.shields.io/badge/🏆_Wizardio's_Choice-Solana_Blitz_v5-9945FF?style=flat-square" alt="Winner" /><br/><br/>
+      Real-time prediction market on MagicBlock Ephemeral Rollups. Zero-fee, sub-second position trading with oracle-based settlement.<br/><br/>
+      <sub><code>Rust</code> <code>Anchor</code> <code>MagicBlock ER</code> <code>Pyth</code> <code>React</code></sub><br/>
+      <a href="https://epoch-solana.vercel.app/">Live demo</a> · <a href="https://github.com/nisargpatel7042lva/EPOCH">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/nisargpatel7042lva/PHANTOM">PHANTOM</a></h3>
+      <img src="https://img.shields.io/badge/6th_of_257_builders-Team1_India_Speedrun-E84142?style=flat-square" alt="Placed" /><br/><br/>
+      Private trading shield on Avalanche. Deposit USDC, convert to encrypted eERC tokens (ElGamal + Groth16 zk-SNARKs) and move value privately on-chain.<br/><br/>
+      <sub><code>Next.js</code> <code>ethers v6</code> <code>eERC SDK</code> <code>Avalanche Fuji</code></sub><br/>
+      <a href="https://github.com/nisargpatel7042lva/PHANTOM">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/nisargpatel7042lva/mandate">Mandate</a></h3>
+      <img src="https://img.shields.io/badge/ETHOnline-2026-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="ETHOnline 2026" /><br/><br/>
+      On-chain spending limits for autonomous DeFi agents that hold even when the agent is compromised. ENSv2 scopes, a 1inch SwapVM gate, The Graph indexing and USDC settlement on Arc.<br/><br/>
+      <sub><code>Solidity</code> <code>Foundry</code> <code>ENS</code> <code>The Graph</code> <code>MCP</code></sub><br/>
+      <a href="https://mandate-rho.vercel.app">Live demo</a> · <a href="https://github.com/nisargpatel7042lva/mandate">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/nisargpatel7042lva/VaultKey">VaultKey</a></h3>
+      <img src="https://img.shields.io/badge/StableHacks-2026-14F195?style=flat-square&logo=solana&logoColor=0D1117" alt="StableHacks 2026" /><br/><br/>
+      Permissioned DeFi vault on Solana that enforces KYC, AML, KYT and Travel Rule checks at the token layer with Token-2022 transfer hooks, so compliance cannot be bypassed.<br/><br/>
+      <sub><code>Rust</code> <code>Anchor</code> <code>Token-2022</code> <code>Next.js</code></sub><br/>
+      <a href="https://github.com/nisargpatel7042lva/VaultKey">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/nisargpatel7042lva/mission-control-magicblock">Mission Control</a></h3>
+      <img src="https://img.shields.io/badge/Solana_Blitz_V8-Solo_build-9945FF?style=flat-square" alt="Solana Blitz V8" /><br/><br/>
+      Live ops dashboard for all six MagicBlock Ephemeral Rollup primitives (lifecycle, VRF, Magic Actions, cranks, oracle feeds, session keys), each probed by its own Anchor program.<br/><br/>
+      <sub><code>Rust</code> <code>Anchor</code> <code>MagicBlock</code> <code>Next.js 16</code></sub><br/>
+      <a href="https://github.com/nisargpatel7042lva/mission-control-magicblock">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/nisargpatel7042lva/vault-break">Vault Break</a></h3>
+      <img src="https://img.shields.io/badge/Solana_Blitz_v7-On--chain_game-FFFFFF?style=flat-square&logo=unity&logoColor=black" alt="Solana Blitz v7" /><br/><br/>
+      Two-player co-op escape room where each player's clue stays private, enforced by MagicBlock Private Ephemeral Rollups. Unity 6 client, 23 passing program integration tests.<br/><br/>
+      <sub><code>Unity 6</code> <code>C#</code> <code>Anchor</code> <code>Private ER</code></sub><br/>
+      <a href="https://github.com/nisargpatel7042lva/vault-break">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/nisargpatel7042lva/HERMES">HERMES</a></h3>
+      <img src="https://img.shields.io/badge/Team1_India_Speedrun-Agentic_payments-E84142?style=flat-square" alt="Team1 India Speedrun" /><br/><br/>
+      Autonomous agent that runs milestone-based escrow payments for freelancers, with AI-powered work verification before release.<br/><br/>
+      <sub><code>Solidity</code> <code>Avalanche Fuji</code> <code>React</code> <code>Gemini</code></sub><br/>
+      <a href="https://github.com/nisargpatel7042lva/HERMES">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/nisargpatel7042lva/RugRadar">RugRadar</a></h3>
+      <img src="https://img.shields.io/badge/Solana-Risk_monitoring-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana" /><br/><br/>
+      Early-warning system for Solana rug pulls. Scores new tokens 0 to 100 across six risk signals and pushes Telegram alerts for high-risk launches.<br/><br/>
+      <sub><code>React</code> <code>Node.js</code> <code>Birdeye API</code> <code>Telegram Bot</code></sub><br/>
+      <a href="https://rugradar-birdeye.vercel.app/">Live demo</a> · <a href="https://github.com/nisargpatel7042lva/RugRadar">Code</a>
+    </td>
+  </tr>
+</table>
+
+### More builds
+
+| Project | Ecosystem | What it does | Links |
+| :-- | :-- | :-- | :-- |
+| **Lockstar** | Stellar · Soroban | XLM staking vault with tiered rewards from an inter-contract oracle | [Code](https://github.com/nisargpatel7042lva/Lockstar) · [Live](https://lockstar.vercel.app) |
+| **BidOrbit** | Stellar · Soroban | Real-time English auction dApp with multi-wallet support | [Code](https://github.com/nisargpatel7042lva/BidOrbit) · [Live](https://bid-orbit.vercel.app/) |
+| **Loom** | AI · Prediction markets | Memory agent that finds structural analogies between markets using Cognee | [Code](https://github.com/nisargpatel7042lva/Loom) · [Live](https://loom-gamma-one.vercel.app) |
+| **Proof-of-Moment** | World Chain | World ID-verified, time-bound NFTs of real moments, stored on Irys/Arweave | [Code](https://github.com/nisargpatel7042lva/Proof-of-Moment) |
+| **turbin3-prereq-vault** | Solana · Anchor | SOL vault that CPIs into the Turbin3 registration program on withdraw | [Code](https://github.com/nisargpatel7042lva/turbin3-prereq-vault) |
+| **FLINT** | Mobile | Android-first fitness app with streaks and 1:1 challenges | [Code](https://github.com/nisargpatel7042lva/FLINT) |
+| **QuickAid** | AI | Voice-activated assistant for step-by-step first-aid guidance | [Code](https://github.com/nisargpatel7042lva/QuickAid) |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hackathons-15%2B-9945FF?style=for-the-badge" alt="15+ hackathons" />
+  <img src="https://img.shields.io/badge/Won_or_placed-5%2B-14F195?style=for-the-badge&labelColor=0D1117" alt="Won or placed 5+" />
+  <img src="https://img.shields.io/badge/Superteam_bounty_wins-12%2B-F7931A?style=for-the-badge&labelColor=0D1117" alt="12+ bounty wins" />
+</p>
 
 ---
 
-## GitHub Analytics
+## 🎨 Beyond the Chain
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nisargpatel7042lva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisargpatel7042lva&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisargpatel7042lva&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nisargpatel7042lva&custom_title=Annual%20Contribution%20Overview&hide_border=true&border_radius=8&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&title_color=c9d1d9&area=true&area_color=21262d" alt="GitHub Activity Graph" />
-</div>
-
----
-
-## Professional Network
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nisarg-patel-7b799a277/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/nisargpatel5563)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/nisargmaster)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nisargpatel7042lva)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nisargxplores/)
-[![Farcaster](https://img.shields.io/badge/Farcaster-6A0DAD?style=flat-square&logo=farcaster&logoColor=white)](https://farcaster.xyz/nisargxplores) 
-
-</div>
-
+<table>
+  <tr>
+    <td width="25%" valign="top" align="center">
+      <h3>🖥️</h3>
+      <b>UI/UX Design</b><br/>
+      <sub>Research, wireframes, prototypes and design systems for the dApps I ship.</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <h3>🖌️</h3>
+      <b>Graphic Design</b><br/>
+      <sub>Brand identity, event visuals, posters and merch design for Web3 communities.</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <h3>🎮</h3>
+      <b>Game Design</b><br/>
+      <sub>Unity + C#. Building <b>Dharmayog</b> for Smart India Hackathon 2026, a 2D Mahabharata-inspired action game with a dharma-karma choice system.</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <h3>🏃</h3>
+      <b>Athlete &amp; Founder</b><br/>
+      <sub>State-level athlete. Co-founder of <b>Kasrat</b>, a mobile fitness app built on survey-backed user research.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Additional Information
+## 🤝 Community
 
-**Community Involvement**: Contributor to open-source and community-led tech projects (Superteam, GSSoC, AWS UG Vadodara)  
-**Content Creation**: Writer, designer, and visual storyteller sharing insights on tech, creativity, and innovation  
+- **ETH Gujarat** · Core Team Member, building the Vadodara Ethereum community
+- **Team1 India** · Collaborator in the Avalanche builder ecosystem
+- **Superteam Earn** · Active bounty hunter across development and content
+- **Educator** · Onboarded 50+ people into Web3 through ETH 101 sessions and local meetups in Vadodara
 
 ---
 
-<div align="center">
+## 🧰 Tech Stack
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B949E&center=true&vCenter=true&width=400&lines=Open+to+innovative+collaborations;Let's+build+something+extraordinary;Always+ready+for+new+challenges" alt="Contact Information" />
+<p align="center"><b>Languages &amp; Frameworks</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,solidity,ts,js,python,cs,react,nextjs,nodejs,vite,tailwind&perline=11" alt="Languages and frameworks" />
+</p>
 
-**Thank you for visiting my profile!**
+<p align="center"><b>Chains &amp; Protocols</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana" />
+  <img src="https://img.shields.io/badge/Anchor-512BD4?style=flat-square" alt="Anchor" />
+  <img src="https://img.shields.io/badge/MagicBlock-0D1117?style=flat-square" alt="MagicBlock" />
+  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white" alt="Bitcoin" />
+  <img src="https://img.shields.io/badge/Lightning_Network-792EE5?style=flat-square" alt="Lightning Network" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/Foundry-1C1C1C?style=flat-square" alt="Foundry" />
+  <img src="https://img.shields.io/badge/Avalanche-E84142?style=flat-square" alt="Avalanche" />
+  <img src="https://img.shields.io/badge/Stellar_·_Soroban-0D1117?style=flat-square&logo=stellar&logoColor=white" alt="Stellar" />
+  <img src="https://img.shields.io/badge/Nostr-8E30EB?style=flat-square" alt="Nostr" />
+  <img src="https://img.shields.io/badge/MCP-0D1117?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
+</p>
 
-</div>
+<p align="center"><b>Design, Game &amp; Infra</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,xd,blender,unity,firebase,docker,aws,vercel,git&perline=9" alt="Design, game and infra tools" />
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=nisargpatel7042lva&theme=dark&hide_border=true&background=0D1117&ring=9945FF&fire=14F195&currStreakLabel=14F195&stroke=30363D" alt="GitHub streak" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=8B949E&center=true&vCenter=true&width=460&lines=Open+to+collaborations+and+bounties;Let's+build+something+people+actually+use" alt="Closing" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:9945FF,100:14F195&height=120&section=footer" width="100%" alt="Footer" />
+</p>
