@@ -1,19 +1,10 @@
 <p align="center">
-  <img
-    src="./profile backdrop.png"
-    width="100%"
-    alt="Nisarg Patel — Designer, Builder, Explorer"
-  />
+  <img src="./profile%20backdrop.png" width="100%" alt="Nisarg Patel, Designer, Builder, Explorer" />
 </p>
-
-
----
-
-## `$ whoami`
 
 <p align="center">
   <a href="https://nisargxplores-portfolio.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1100&color=9945FF&center=true&vCenter=true&width=640&lines=Open-source+contributor+%C2%B7+ContextVM+SDK;Bitshala+cohort+graduate+%C2%B7+Bitcoin+%2B+Lightning;Turbin3+Builders+Cohort+Q3+2026;Ackee+School+of+Solana+%C2%B7+Season+8+graduate;Shipping+on+Solana%2C+Bitcoin%2C+Ethereum%2C+Avalanche%2C+Stellar;UI%2FUX+%C2%B7+Graphic+Design+%C2%B7+Game+Design" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1100&color=9945FF&center=true&vCenter=true&width=640&lines=Open-source+contributor+%C2%B7+ContextVM+SDK;5+hackathon+wins+%C2%B7+30%2B+projects+shipped;Bitshala+cohort+graduate+%C2%B7+Bitcoin+%2B+Lightning;Turbin3+Builders+Cohort+Q3+2026;Ackee+School+of+Solana+%C2%B7+Season+8+graduate;UI%2FUX+%C2%B7+Graphic+Design+%C2%B7+Game+Design" alt="Typing intro" />
   </a>
 </p>
 
@@ -39,7 +30,7 @@
 name:          Nisarg Patel
 based_in:      Vadodara, Gujarat, India
 studying:      Final-year Engineering @ SVIT Vasad
-building_on:   [Solana, Bitcoin, Ethereum, Avalanche, Stellar]
+building_on:   [Solana, Bitcoin, Ethereum, Avalanche, Stellar, Zcash]
 open_source:   ContextVM/sdk  # Nostr x Model Context Protocol
 currently:     Turbin3 Builders Cohort Q3 2026
 graduated:     [Bitshala Bitcoin cohorts, Ackee School of Solana S8]
@@ -47,7 +38,53 @@ community:     [ETH Gujarat Core Team, Team1 India, Superteam Earn]
 also_a:        [UI/UX designer, graphic designer, game designer, state-level athlete]
 ```
 
-I build across chains and across disciplines. Around three years in Web3, 15+ hackathons, and a habit of shipping things people can click on. I care about protocol-level correctness as much as I care about how the product feels in your hands.
+I build across chains and across disciplines. Around three years in Web3, 15+ hackathons, 30+ shipped projects, and a habit of shipping things people can actually click on. I care about protocol-level correctness as much as I care about how the product feels in your hands.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects_shipped-30%2B-9945FF?style=for-the-badge&labelColor=0D1117" alt="30+ projects" />
+  <img src="https://img.shields.io/badge/Hackathons-15%2B-14F195?style=for-the-badge&labelColor=0D1117" alt="15+ hackathons" />
+  <img src="https://img.shields.io/badge/Hackathon_wins-5-F7931A?style=for-the-badge&labelColor=0D1117" alt="5 hackathon wins" />
+  <img src="https://img.shields.io/badge/Bounty_wins-12%2B-E84142?style=for-the-badge&labelColor=0D1117" alt="12+ bounty wins" />
+</p>
+
+---
+
+## 🏆 Wins and Recognition
+
+<table>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">Hackathon</th>
+    <th align="left">Result</th>
+    <th align="left">Proof</th>
+  </tr>
+  <tr>
+    <td><b>EPOCH</b><br/><sub>Real-time prediction markets on Solana</sub></td>
+    <td>Solana Blitz v5<br/><sub>MagicBlock track</sub></td>
+    <td>🏆 Wizardio's Choice</td>
+    <td><a href="https://epoch-solana.vercel.app/">Live</a> · <a href="https://github.com/nisargpatel7042lva/EPOCH">Code</a></td>
+  </tr>
+  <tr>
+    <td><b>SafeMask</b><br/><sub>ZK privacy wallet for Ethereum, Solana and Bitcoin</sub></td>
+    <td>Zypherpunk<br/><sub>Zcash Privacy Hackathon</sub></td>
+    <td>🏆 Winner</td>
+    <td><a href="https://safemaskweb.vercel.app/">Live</a> · <a href="https://devfolio.co/projects/safemask-04d4">Devfolio</a> · <a href="https://github.com/Kartikvyas1604/SafeMask">Code</a></td>
+  </tr>
+  <tr>
+    <td><b>PHANTOM</b><br/><sub>Private trading shield on Avalanche</sub></td>
+    <td>Team1 India Speedrun<br/><sub>July 2026</sub></td>
+    <td>🏆 Winner · 6th of 257 builders</td>
+    <td><a href="https://phantom-rouge.vercel.app/">Live</a> · <a href="https://github.com/nisargpatel7042lva/PHANTOM">Code</a></td>
+  </tr>
+  <tr>
+    <td><b>BidOrbit</b><br/><sub>Real-time on-chain auctions on Soroban</sub></td>
+    <td>Stellar Build Sprint<br/><sub>DevX, Vadodara</sub></td>
+    <td>🏆 Winner</td>
+    <td><a href="https://bid-orbit.vercel.app/">Live</a> · <a href="https://github.com/nisargpatel7042lva/BidOrbit">Code</a></td>
+  </tr>
+</table>
+
+<sub>Plus 12+ Superteam Earn bounty wins across development and content, and placements in several other hackathons.</sub>
 
 ---
 
@@ -108,66 +145,82 @@ I build across chains and across disciplines. Around three years in Web3, 15+ ha
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/nisargpatel7042lva/EPOCH">EPOCH</a></h3>
+      <h3><a href="https://epoch-solana.vercel.app/">EPOCH</a></h3>
       <img src="https://img.shields.io/badge/🏆_Wizardio's_Choice-Solana_Blitz_v5-9945FF?style=flat-square" alt="Winner" /><br/><br/>
-      Real-time prediction market on MagicBlock Ephemeral Rollups. Zero-fee, sub-second position trading with oracle-based settlement.<br/><br/>
+      Real-time prediction market on Solana. Every market runs as a MagicBlock Ephemeral Rollup, so positions are zero-fee with sub-second updates and Pyth-confirmed settlement back to L1.<br/><br/>
       <sub><code>Rust</code> <code>Anchor</code> <code>MagicBlock ER</code> <code>Pyth</code> <code>React</code></sub><br/>
       <a href="https://epoch-solana.vercel.app/">Live demo</a> · <a href="https://github.com/nisargpatel7042lva/EPOCH">Code</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/nisargpatel7042lva/PHANTOM">PHANTOM</a></h3>
-      <img src="https://img.shields.io/badge/6th_of_257_builders-Team1_India_Speedrun-E84142?style=flat-square" alt="Placed" /><br/><br/>
-      Private trading shield on Avalanche. Deposit USDC, convert to encrypted eERC tokens (ElGamal + Groth16 zk-SNARKs) and move value privately on-chain.<br/><br/>
-      <sub><code>Next.js</code> <code>ethers v6</code> <code>eERC SDK</code> <code>Avalanche Fuji</code></sub><br/>
-      <a href="https://github.com/nisargpatel7042lva/PHANTOM">Code</a>
+      <h3><a href="https://safemaskweb.vercel.app/">SafeMask</a></h3>
+      <img src="https://img.shields.io/badge/🏆_Winner-Zypherpunk_·_Zcash_Privacy-F4B728?style=flat-square" alt="Winner" /><br/><br/>
+      Privacy-first multi-chain wallet for Ethereum, Solana and Bitcoin. Zcash viewing-key access, ZecPort cross-chain bridging and NFC tap-to-pay, shipped as an Android build.<br/><br/>
+      <sub><code>React Native</code> <code>TypeScript</code> <code>Zcash</code> <code>ZK</code></sub><br/>
+      <a href="https://safemaskweb.vercel.app/">Live demo</a> · <a href="https://devfolio.co/projects/safemask-04d4">Devfolio</a> · <a href="https://github.com/Kartikvyas1604/SafeMask">Code</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/nisargpatel7042lva/mandate">Mandate</a></h3>
+      <h3><a href="https://phantom-rouge.vercel.app/">PHANTOM</a></h3>
+      <img src="https://img.shields.io/badge/🏆_Winner-6th_of_257_builders-E84142?style=flat-square" alt="Winner" /><br/><br/>
+      Private trading shield on Avalanche. Wraps USDC into encrypted eERC tokens and generates Groth16 proofs in the browser, so transfer amounts stay hidden on-chain while an auditor key keeps compliance intact.<br/><br/>
+      <sub><code>Next.js</code> <code>snarkjs</code> <code>eERC</code> <code>Avalanche Fuji</code></sub><br/>
+      <a href="https://phantom-rouge.vercel.app/">Live demo</a> · <a href="https://github.com/nisargpatel7042lva/PHANTOM">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://bid-orbit.vercel.app/">BidOrbit</a></h3>
+      <img src="https://img.shields.io/badge/🏆_Winner-Stellar_Build_Sprint-0D1117?style=flat-square&logo=stellar&logoColor=white" alt="Winner" /><br/><br/>
+      Decentralised English auctions on Stellar. Soroban contract with live bid events, multi-wallet support and a daily auction running on testnet.<br/><br/>
+      <sub><code>Rust</code> <code>Soroban</code> <code>React 19</code> <code>Stellar Wallets Kit</code></sub><br/>
+      <a href="https://bid-orbit.vercel.app/">Live demo</a> · <a href="https://github.com/nisargpatel7042lva/BidOrbit">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://axiom-vaults.vercel.app/">AXIOM Vaults</a></h3>
+      <img src="https://img.shields.io/badge/Solana-Prediction_market_ETF-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana" /><br/><br/>
+      The first prediction-market ETF on Solana. Deposit USDC into three risk-tiered vaults, an autonomous engine runs the trade lifecycle, and idle capital earns lending yield in between.<br/><br/>
+      <sub><code>Rust</code> <code>Anchor</code> <code>Jupiter</code> <code>TypeScript</code></sub><br/>
+      <a href="https://axiom-vaults.vercel.app/">Live demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://mandate-rho.vercel.app">Mandate</a></h3>
       <img src="https://img.shields.io/badge/ETHOnline-2026-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="ETHOnline 2026" /><br/><br/>
-      On-chain spending limits for autonomous DeFi agents that hold even when the agent is compromised. ENSv2 scopes, a 1inch SwapVM gate, The Graph indexing and USDC settlement on Arc.<br/><br/>
+      Authority for AI agents, enforced on-chain. Limits are published in ENS, mirrored to a contract the agent cannot write to, and composed with live ERC-8004 reputation at every trade.<br/><br/>
       <sub><code>Solidity</code> <code>Foundry</code> <code>ENS</code> <code>The Graph</code> <code>MCP</code></sub><br/>
       <a href="https://mandate-rho.vercel.app">Live demo</a> · <a href="https://github.com/nisargpatel7042lva/mandate">Code</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/nisargpatel7042lva/VaultKey">VaultKey</a></h3>
-      <img src="https://img.shields.io/badge/StableHacks-2026-14F195?style=flat-square&logo=solana&logoColor=0D1117" alt="StableHacks 2026" /><br/><br/>
-      Permissioned DeFi vault on Solana that enforces KYC, AML, KYT and Travel Rule checks at the token layer with Token-2022 transfer hooks, so compliance cannot be bypassed.<br/><br/>
-      <sub><code>Rust</code> <code>Anchor</code> <code>Token-2022</code> <code>Next.js</code></sub><br/>
-      <a href="https://github.com/nisargpatel7042lva/VaultKey">Code</a>
+      <h3><a href="https://hermes-milestone.vercel.app/">HERMES</a></h3>
+      <img src="https://img.shields.io/badge/Avalanche-Agentic_escrow-E84142?style=flat-square" alt="Avalanche" /><br/><br/>
+      Autonomous milestone payments for freelance work. Clients escrow USDC, the freelancer submits a deliverable URL, and an AI agent scores it against the milestone and releases or rejects payment on-chain. No human arbitration.<br/><br/>
+      <sub><code>Solidity</code> <code>Avalanche Fuji</code> <code>React</code> <code>Gemini 2.5 Flash</code></sub><br/>
+      <a href="https://hermes-milestone.vercel.app/">Live demo</a> · <a href="https://github.com/nisargpatel7042lva/HERMES">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://loom-web-two.vercel.app/">Loom</a></h3>
+      <img src="https://img.shields.io/badge/AI-Memory_agent-14F195?style=flat-square&labelColor=0D1117" alt="AI memory agent" /><br/><br/>
+      Stop predicting, start remembering. Loom learns from resolved prediction markets and, when a structurally identical question reopens, recalls what happened last time. One LLM call per analysis over 3,700+ live Jupiter markets.<br/><br/>
+      <sub><code>Python</code> <code>FastAPI</code> <code>Cognee</code> <code>FastEmbed</code> <code>React</code></sub><br/>
+      <a href="https://loom-web-two.vercel.app/">Live demo</a> · <a href="https://github.com/nisargpatel7042lva/Loom">Code</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/nisargpatel7042lva/mission-control-magicblock">Mission Control</a></h3>
-      <img src="https://img.shields.io/badge/Solana_Blitz_V8-Solo_build-9945FF?style=flat-square" alt="Solana Blitz V8" /><br/><br/>
-      Live ops dashboard for all six MagicBlock Ephemeral Rollup primitives (lifecycle, VRF, Magic Actions, cranks, oracle feeds, session keys), each probed by its own Anchor program.<br/><br/>
-      <sub><code>Rust</code> <code>Anchor</code> <code>MagicBlock</code> <code>Next.js 16</code></sub><br/>
-      <a href="https://github.com/nisargpatel7042lva/mission-control-magicblock">Code</a>
+      <h3><a href="https://rugradar-birdeye.vercel.app/">RugRadar</a></h3>
+      <img src="https://img.shields.io/badge/Solana-Risk_monitoring-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana" /><br/><br/>
+      Catch rugs before they happen. Scores new Solana listings 0 to 100 across security, liquidity, holder and transaction signals, auto-refreshes every 30 seconds and alerts on Telegram.<br/><br/>
+      <sub><code>React</code> <code>Node.js</code> <code>Birdeye API</code> <code>Telegram Bot</code></sub><br/>
+      <a href="https://rugradar-birdeye.vercel.app/">Live demo</a> · <a href="https://github.com/nisargpatel7042lva/RugRadar">Code</a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/nisargpatel7042lva/vault-break">Vault Break</a></h3>
       <img src="https://img.shields.io/badge/Solana_Blitz_v7-On--chain_game-FFFFFF?style=flat-square&logo=unity&logoColor=black" alt="Solana Blitz v7" /><br/><br/>
-      Two-player co-op escape room where each player's clue stays private, enforced by MagicBlock Private Ephemeral Rollups. Unity 6 client, 23 passing program integration tests.<br/><br/>
+      Two-player co-op escape room where each player holds a private clue, enforced by MagicBlock Private Ephemeral Rollups inside a trusted execution environment. Unity 6 client, 23 passing integration tests.<br/><br/>
       <sub><code>Unity 6</code> <code>C#</code> <code>Anchor</code> <code>Private ER</code></sub><br/>
       <a href="https://github.com/nisargpatel7042lva/vault-break">Code</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/nisargpatel7042lva/HERMES">HERMES</a></h3>
-      <img src="https://img.shields.io/badge/Team1_India_Speedrun-Agentic_payments-E84142?style=flat-square" alt="Team1 India Speedrun" /><br/><br/>
-      Autonomous agent that runs milestone-based escrow payments for freelancers, with AI-powered work verification before release.<br/><br/>
-      <sub><code>Solidity</code> <code>Avalanche Fuji</code> <code>React</code> <code>Gemini</code></sub><br/>
-      <a href="https://github.com/nisargpatel7042lva/HERMES">Code</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/nisargpatel7042lva/RugRadar">RugRadar</a></h3>
-      <img src="https://img.shields.io/badge/Solana-Risk_monitoring-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana" /><br/><br/>
-      Early-warning system for Solana rug pulls. Scores new tokens 0 to 100 across six risk signals and pushes Telegram alerts for high-risk launches.<br/><br/>
-      <sub><code>React</code> <code>Node.js</code> <code>Birdeye API</code> <code>Telegram Bot</code></sub><br/>
-      <a href="https://rugradar-birdeye.vercel.app/">Live demo</a> · <a href="https://github.com/nisargpatel7042lva/RugRadar">Code</a>
     </td>
   </tr>
 </table>
@@ -176,19 +229,12 @@ I build across chains and across disciplines. Around three years in Web3, 15+ ha
 
 | Project | Ecosystem | What it does | Links |
 | :-- | :-- | :-- | :-- |
-| **Lockstar** | Stellar · Soroban | XLM staking vault with tiered rewards from an inter-contract oracle | [Code](https://github.com/nisargpatel7042lva/Lockstar) · [Live](https://lockstar.vercel.app) |
-| **BidOrbit** | Stellar · Soroban | Real-time English auction dApp with multi-wallet support | [Code](https://github.com/nisargpatel7042lva/BidOrbit) · [Live](https://bid-orbit.vercel.app/) |
-| **Loom** | AI · Prediction markets | Memory agent that finds structural analogies between markets using Cognee | [Code](https://github.com/nisargpatel7042lva/Loom) · [Live](https://loom-gamma-one.vercel.app) |
+| **VaultKey** | Solana · Token-2022 | Permissioned DeFi vault enforcing KYC, AML, KYT and Travel Rule at the token layer through transfer hooks | [Code](https://github.com/nisargpatel7042lva/VaultKey) |
+| **Mission Control** | Solana · MagicBlock | Live ops dashboard exercising all six Ephemeral Rollup primitives, each probed by its own Anchor program | [Code](https://github.com/nisargpatel7042lva/mission-control-magicblock) |
 | **Proof-of-Moment** | World Chain | World ID-verified, time-bound NFTs of real moments, stored on Irys/Arweave | [Code](https://github.com/nisargpatel7042lva/Proof-of-Moment) |
 | **turbin3-prereq-vault** | Solana · Anchor | SOL vault that CPIs into the Turbin3 registration program on withdraw | [Code](https://github.com/nisargpatel7042lva/turbin3-prereq-vault) |
-| **FLINT** | Mobile | Android-first fitness app with streaks and 1:1 challenges | [Code](https://github.com/nisargpatel7042lva/FLINT) |
+| **FLINT** | Mobile | Android-first fitness app with streaks and 1:1 challenges on Firebase | [Code](https://github.com/nisargpatel7042lva/FLINT) |
 | **QuickAid** | AI | Voice-activated assistant for step-by-step first-aid guidance | [Code](https://github.com/nisargpatel7042lva/QuickAid) |
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hackathons-15%2B-9945FF?style=for-the-badge" alt="15+ hackathons" />
-  <img src="https://img.shields.io/badge/Won_or_placed-5%2B-14F195?style=for-the-badge&labelColor=0D1117" alt="Won or placed 5+" />
-  <img src="https://img.shields.io/badge/Superteam_bounty_wins-12%2B-F7931A?style=for-the-badge&labelColor=0D1117" alt="12+ bounty wins" />
-</p>
 
 ---
 
@@ -209,7 +255,7 @@ I build across chains and across disciplines. Around three years in Web3, 15+ ha
     <td width="25%" valign="top" align="center">
       <h3>🎮</h3>
       <b>Game Design</b><br/>
-      <sub>Unity + C#. Building <b>Dharmayog</b> for Smart India Hackathon 2026, a 2D Mahabharata-inspired action game with a dharma-karma choice system.</sub>
+      <sub>Unity + C#. Vault Break on Solana, and <b>Dharmayog</b> for Smart India Hackathon 2026, a 2D Mahabharata-inspired action game with a dharma-karma choice system.</sub>
     </td>
     <td width="25%" valign="top" align="center">
       <h3>🏃</h3>
@@ -219,6 +265,15 @@ I build across chains and across disciplines. Around three years in Web3, 15+ ha
   </tr>
 </table>
 
+### Design and product builds
+
+| Project | What it is | Links |
+| :-- | :-- | :-- |
+| **Builder ID Card** | Badge generator for Hacker House Goa 2026. Upload a photo, fill three fields, download a front and back badge ready to post | [Live](https://id-card-generator-eta-jet.vercel.app/) |
+| **SkillSwap DAO** | Community-run skill exchange with escrowed bookings and rate-to-release payments | [Live](https://skill-swap-dao.vercel.app/) |
+| **Rewind** | A lovingly crafted web experience that recreates Windows 98-era computing | [Portfolio](https://nisargxplores-portfolio.vercel.app/) |
+| **The Anime Hub** | Curated storefront for premium anime merch, built as a full design and commerce exercise | [Live](https://theanimehub.vercel.app/) |
+
 ---
 
 ## 🤝 Community
@@ -227,6 +282,7 @@ I build across chains and across disciplines. Around three years in Web3, 15+ ha
 - **Team1 India** · Collaborator in the Avalanche builder ecosystem
 - **Superteam Earn** · Active bounty hunter across development and content
 - **Educator** · Onboarded 50+ people into Web3 through ETH 101 sessions and local meetups in Vadodara
+- **Host** · Event hosting, managing and volunteering at community events across India
 
 ---
 
@@ -244,6 +300,7 @@ I build across chains and across disciplines. Around three years in Web3, 15+ ha
   <img src="https://img.shields.io/badge/MagicBlock-0D1117?style=flat-square" alt="MagicBlock" />
   <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white" alt="Bitcoin" />
   <img src="https://img.shields.io/badge/Lightning_Network-792EE5?style=flat-square" alt="Lightning Network" />
+  <img src="https://img.shields.io/badge/Zcash-F4B728?style=flat-square" alt="Zcash" />
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum" />
   <img src="https://img.shields.io/badge/Foundry-1C1C1C?style=flat-square" alt="Foundry" />
   <img src="https://img.shields.io/badge/Avalanche-E84142?style=flat-square" alt="Avalanche" />
