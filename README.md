@@ -71,6 +71,12 @@ I build across chains and across disciplines. Around three years in Web3, 15+ ha
     <td><a href="https://safemaskweb.vercel.app/">Live</a> · <a href="https://devfolio.co/projects/safemask-04d4">Devfolio</a> · <a href="https://github.com/Kartikvyas1604/SafeMask">Code</a></td>
   </tr>
   <tr>
+    <td><b>SafeMask</b><br/><sub>Same build, second win</sub></td>
+    <td>Hack This Fall</td>
+    <td>🏆 Winner</td>
+    <td><a href="https://safemaskweb.vercel.app/">Live</a> · <a href="https://github.com/Kartikvyas1604/SafeMask">Code</a></td>
+  </tr>
+  <tr>
     <td><b>PHANTOM</b><br/><sub>Private trading shield on Avalanche</sub></td>
     <td>Team1 India Speedrun<br/><sub>July 2026</sub></td>
     <td>🏆 Winner · 6th of 257 builders</td>
@@ -153,8 +159,8 @@ I build across chains and across disciplines. Around three years in Web3, 15+ ha
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://safemaskweb.vercel.app/">SafeMask</a></h3>
-      <img src="https://img.shields.io/badge/🏆_Winner-Zypherpunk_·_Zcash_Privacy-F4B728?style=flat-square" alt="Winner" /><br/><br/>
-      Privacy-first multi-chain wallet for Ethereum, Solana and Bitcoin. Zcash viewing-key access, ZecPort cross-chain bridging and NFC tap-to-pay, shipped as an Android build.<br/><br/>
+      <img src="https://img.shields.io/badge/🏆_2_hackathon_wins-Zypherpunk_·_Hack_This_Fall-F4B728?style=flat-square" alt="Two hackathon wins" /><br/><br/>
+      Privacy-first multi-chain wallet for Ethereum, Solana and Bitcoin, and the build that won twice. Zcash viewing-key access, ZecPort cross-chain bridging and NFC tap-to-pay, shipped as an Android release.<br/><br/>
       <sub><code>React Native</code> <code>TypeScript</code> <code>Zcash</code> <code>ZK</code></sub><br/>
       <a href="https://safemaskweb.vercel.app/">Live demo</a> · <a href="https://devfolio.co/projects/safemask-04d4">Devfolio</a> · <a href="https://github.com/Kartikvyas1604/SafeMask">Code</a>
     </td>
