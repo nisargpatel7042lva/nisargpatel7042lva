@@ -277,7 +277,7 @@ I build across chains and across disciplines. Around three years in Web3, 15+ ha
 | :-- | :-- | :-- |
 | **Builder ID Card** | Badge generator for Hacker House Goa 2026. Upload a photo, fill three fields, download a front and back badge ready to post | [Live](https://id-card-generator-eta-jet.vercel.app/) |
 | **SkillSwap DAO** | Community-run skill exchange with escrowed bookings and rate-to-release payments | [Live](https://skill-swap-dao.vercel.app/) |
-| **Rewind** | A lovingly crafted web experience that recreates Windows 98-era computing | [Portfolio](https://nisargxplores-portfolio.vercel.app/) |
+| **Rewind** | A lovingly crafted web experience that recreates Windows 98-era computing | [Live](https://rewind-memories.vercel.app/) |
 | **The Anime Hub** | Curated storefront for premium anime merch, built as a full design and commerce exercise | [Live](https://theanimehub.vercel.app/) |
 
 ---
